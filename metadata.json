@@ -1,0 +1,6 @@
+{
+  "name": "Brand Builder",
+  "description": "Envision products across billboards, newspapers, social posts, and diverse advertising mediums with unified consistency using Nano-Banana.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
